@@ -16,3 +16,6 @@ FlowState empowers you to personalize your experience with customizable settings
 Whether you're a student, professional, or simply seeking better organization and focus in your life, FlowState is the ultimate companion to help you achieve your goals and maintain a state of flow in all aspects of your daily routine.
 
 Experience the power of FlowState and unlock your full potential in work, life, and beyond.
+
+<img width="1470" alt="Screenshot 2024-04-25 at 6 20 49 PM" src="https://github.com/yatraavaghasia/FlowState/assets/113079616/5ec3bb8a-a31d-4b27-b463-293e3bbbd4f9">
+<img width="1470" alt="Screenshot 2024-04-25 at 6 20 13 PM" src="https://github.com/yatraavaghasia/FlowState/assets/113079616/e57a203f-3a51-4d24-85c7-20db6261c2b1">
